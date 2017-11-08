@@ -7,5 +7,6 @@
       <hash><url n="URL" path="IdeConnections#disco_admin.jpr"/></hash>
       <hash><url n="URL" path="IdeConnections#icms.jpr"/></hash>
       <hash><url n="URL" path="IdeConnections#pims.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#pims.jpr"/></hash>
    </list>
 </jws:workspace>
